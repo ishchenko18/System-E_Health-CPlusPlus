@@ -1,0 +1,29 @@
+﻿Build started 20.12.2017 23:01:51.
+     1>Project "C:\Users\Vladislav\Desktop\Study\2 курс\ООП\Ishchenko IS-63\RealisationPlusPlus\Version7(C++)\Version7(C++)\Version7(C++).vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\users\vladislav\desktop\study\2 курс\ооп\ishchenko is-63\realisationplusplus\version7(c++)\version7(c++)\doctor.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\vladislav\desktop\study\2 курс\ооп\ishchenko is-63\realisationplusplus\version7(c++)\version7(c++)\user.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\vladislav\desktop\study\2 курс\ооп\ishchenko is-63\realisationplusplus\version7(c++)\version7(c++)\main.cpp(25): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\vladislav\desktop\study\2 курс\ооп\ishchenko is-63\realisationplusplus\version7(c++)\version7(c++)\main.cpp(199): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\vladislav\desktop\study\2 курс\ооп\ishchenko is-63\realisationplusplus\version7(c++)\version7(c++)\main.cpp(200): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Vladislav\Desktop\Study\2 курс\ООП\Ishchenko IS-63\RealisationPlusPlus\Version7(C++)\Debug\Version7(C++).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Vladislav\Desktop\Study\2 курс\ООП\Ishchenko IS-63\RealisationPlusPlus\Version7(C++)\Debug\Version7(C++).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Vladislav\Desktop\Study\2 курс\ООП\Ishchenko IS-63\RealisationPlusPlus\Version7(C++)\Debug\Version7(C++).lib" /MACHINE:X86 Debug\ChipForIdentification.obj
+         Debug\Clinic.obj
+         Debug\Doctor.obj
+         Debug\Error.obj
+         Debug\E_Card.obj
+         Debug\Main.obj
+         Debug\Person.obj
+         Debug\SmartBed.obj
+         Debug\SmartBracelet.obj
+         Debug\SmartToilet.obj
+         Debug\SystemE_Health.obj
+         Debug\User.obj
+         Version7(C++).vcxproj -> C:\Users\Vladislav\Desktop\Study\2 курс\ООП\Ishchenko IS-63\RealisationPlusPlus\Version7(C++)\Debug\Version7(C++).exe
+     1>Done Building Project "C:\Users\Vladislav\Desktop\Study\2 курс\ООП\Ishchenko IS-63\RealisationPlusPlus\Version7(C++)\Version7(C++)\Version7(C++).vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.06
